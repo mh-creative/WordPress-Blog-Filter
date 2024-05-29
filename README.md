@@ -24,6 +24,7 @@ theme-directory
     * news-styles.css  
   * js  
     * news-scripts.js  
+    
 functions.php  
 news.php  
 
