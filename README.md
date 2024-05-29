@@ -19,13 +19,13 @@ This project provides a custom WordPress shortcode `[custom-news]` that allows u
 
 Ensure your theme directory has the following structure:
 
-theme-directory
-  css
-    news-styles.css
-  js
-    news-scripts.js
-functions.php
-news.php
+theme-directory  
+  css  
+    news-styles.css  
+  js  
+    news-scripts.js  
+functions.php  
+news.php  
 
 
 ### Step 2: Create `news.php`
