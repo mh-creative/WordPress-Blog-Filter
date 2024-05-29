@@ -24,7 +24,7 @@ theme-directory
     * news-styles.css  
   * js  
     * news-scripts.js  
-    
+
 functions.php  
 news.php  
 
@@ -62,3 +62,5 @@ To use the shortcode, simply add `[custom-news]` in the editor of any post or pa
 - Only published posts are included in the filter results.
 
 By following these instructions, you can set up and use the custom news filter shortcode on your WordPress site.
+
+*End*
