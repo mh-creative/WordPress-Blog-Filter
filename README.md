@@ -43,7 +43,7 @@ Create a file named `news-styles.css` in the `css` directory. This file will con
 
 ### Step 5: Update `functions.php`
 
-Modify your theme’s `functions.php` to enqueue the styles and scripts, include the `news-html-functions.php` file, and localize the AJAX URL for JavaScript.
+Modify your theme’s `functions.php` to enqueue the styles and scripts, include the `news.php` file, and localize the AJAX URL for JavaScript.
 
 ### Step 6: Embed the Shortcode
 
